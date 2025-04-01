@@ -1,12 +1,6 @@
-- text: Website
-  url: https://www.google.com/
-  icon: globe2
-- text: GitHub
+
   url: https://joselozadajr.github.io/link-in-bio/
   icon: github
-- text: Twitter
-  url: https://www.twitter.com/
-  icon: twitter
 - text: LinkedIn
   url: https://www.linkedin.com/
   icon: linkedin
